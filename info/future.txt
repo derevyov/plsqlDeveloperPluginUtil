@@ -1,0 +1,1 @@
+- при попадании макроса &M_FALF_OSUSER  /* AND :FALF_OSUSER = 0 */   делаем коммент /****&M_FALF_OSUSER  /* AND :FALF_OSUSER = 0 */ потом обратно
