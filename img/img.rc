@@ -1,0 +1,3 @@
+etBmp BITMAP "et.bmp"
+dotBmp BITMAP "dot.bmp"
+roundBmp BITMAP "round.bmp"
