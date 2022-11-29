@@ -2,6 +2,9 @@
 
 PLSQL Developer Plugin. Replacing :param with &param and back (excludes comment text and single quotes)
 
+![T](https://github.com/derevyov/plsqlDeveloperPluginUtil/blob/main/img/image2.png)
+
+
 ### Test sql
 
 ```sql
