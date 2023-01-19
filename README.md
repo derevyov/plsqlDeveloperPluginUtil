@@ -20,3 +20,6 @@ SELECT t.*, :PARAM
 more text on another line*/
 -- :param
 ```
+
+
+Video lesson on PL/SQL Develper https://youtube.com/playlist?list=PLHfFGvt0iNuCxNVcl57sIrDn5GyVoF-mR
