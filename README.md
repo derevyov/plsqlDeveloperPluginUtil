@@ -2,6 +2,8 @@
 
 PLSQL Developer Plugin. Replacing :param with &param and back (excludes comment text and single quotes)
 
+Copy files from folder name "Release" to "PLSQL_DEVELOPER_HOME/PLUGINS"
+
 ![T](https://github.com/derevyov/plsqlDeveloperPluginUtil/blob/main/img/image2.png)
 
 
