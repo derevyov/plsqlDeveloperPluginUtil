@@ -2,6 +2,8 @@
 
 PLSQL Developer Plugin. Replacing :param with &param and back (excludes comment text and single quotes)
 
+Copy files from folder name "Release" to "PLSQL_DEVELOPER_HOME/PLUGINS"
+
 ![T](https://github.com/derevyov/plsqlDeveloperPluginUtil/blob/main/img/image2.png)
 
 
@@ -20,3 +22,6 @@ SELECT t.*, :PARAM
 more text on another line*/
 -- :param
 ```
+
+
+Video lesson on PL/SQL Develper https://youtube.com/playlist?list=PLHfFGvt0iNuCxNVcl57sIrDn5GyVoF-mR
